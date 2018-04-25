@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>dotnet-hinet_sms</AssemblyName>
+    <AssemblyName>HinetSms</AssemblyName>
     <RootNamespace>HinetSms</RootNamespace>
   </PropertyGroup>
 
